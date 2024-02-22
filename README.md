@@ -15,8 +15,8 @@ Hello my name is Alvin anak Samail
 An Software Engineering which is as Fullstack Developer
 Im willing to learn a new code to improve my programming
 My programming language :
-<!-- HTML -->
-<!-- CSS -->
-<!-- PHP -->
-<!-- DJANGO -->
-<!-- JAVASCRIPT -->
+<-- HTML -->
+<-- CSS -->
+<-- PHP -->
+<-- DJANGO -->
+<-- JAVASCRIPT -->
