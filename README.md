@@ -8,5 +8,5 @@ All notes and link online here:
 + https://tv1.lk21official.mom/sleepaway-camp-1983/
 + https://linktr.ee/imyujia?fbclid=IwAR2PhKNHADZjmwzsWRSy74uTxM3vyzWOE5DIWVDM3mnV4z2_mZwTiNo6nNs
 + https://watchhentai.net/videos/shishunki-no-obenkyou-episode-2/
-+ https://shopee.com.my/Unlimited-Web-Hosting-Shared-Hosting-SSD-Wordpress-OpenCart-eCommerce-website-email-(Free-Domain-Registration)-i.37583593.4538115581?sp_atk=4162545d-11b5-4bba-99bd-d5eed919ef61&xptdk=4162545d-11b5-4bba-99bd-d5eed919ef61
 + https://hianime.to/watch/mieruko-chan-17698?ep=83413
++ https://shopee.com.my/Samsung-N150-plus-N143-N145-N148-N102-N102S-N158-NB30-NB20-N100-N100S-N100SP-n102sp-NP-N145-Laptop-black-white-keyboard-i.394386649.11512106538
