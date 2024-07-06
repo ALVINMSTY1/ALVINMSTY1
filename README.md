@@ -33,24 +33,24 @@ Lengkapkan maklumat di bawah untuk mempercepatkan proses permohonan loan *(Copy,
 12.Rumah siapa jika alamat berlainan : -
 
 13.Nama Company : KWONG SENG CHEONG FOOD INDUSTRIES SDN. BHD.
-14.No Telefon pejabat : +6082-43 2615
+14.No Telefon pejabat : +(6)082-432607
 15.Alamat Pejabat : LOT 921 BLOCK 7, SEJINGKAT INDUSTRIAL PARK, JALAN BAKO, 93050 KUCHING, SARAWAK
 16.Menjalankan Perniagaan apa? : 1. MANUFACTURING & PROCESSING OF FOOD & RELATED PRODUCTS 2. LETTING OF PROPERTY, PLANT & EQUIPMENT 3. CATERING SERVICES
-17.Nama Pegawai/Manager/supervisor/HR : (untuk pengesahan sahaja)
-18.Tempoh Berkhidmat : 
-19.Jawatan anda : 
+17.Nama Manager : MR FOO CHIH CHANG
+18.Tempoh Berkhidmat : 3 BULAN
+19.Jawatan anda : IT TECHNICIAN
 
-20.Status Perkahwinan : 
-21.Bilangan tanggungan :
+20.Status Perkahwinan : BUJANG
+21.Bilangan tanggungan : -
 
 Sertakan 2 Ahli kelurga sebagai Rujukan (Wajib) ini Rujukan sahaja bukan Guarantor
 
 1)
-Nama:
-HP no:
-Hubungan: 
+Nama: SAMAIL ANAK BUNSU
+HP no: 013-8000216
+Hubungan: BAPA
 
 2)
-Nama:
-HP no:
-Hubungan:
+Nama: DEYLINE ANAK SAMAIL
+HP no: 013-5781759
+Hubungan: KAKAK
