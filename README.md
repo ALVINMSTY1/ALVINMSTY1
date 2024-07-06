@@ -16,26 +16,26 @@ All notes and link online here:
 
 Lengkapkan maklumat di bawah untuk mempercepatkan proses permohonan loan *(Copy,Paste,Isi dan hantar)*
 
-1.Nama Penuh :
-2.No IC : 
-3.No Handphone :
-4.Email Address :
-5.Taraf Pendidikan :
-6.Bangsa : 
-7.Nama Ibu :
+1.Nama Penuh : ALVIN ANAK SAMAIL
+2.No IC : 990913-13-5985
+3.No Handphone : 013-5877852
+4.Email Address : simile354@gmail.com
+5.Taraf Pendidikan : IJAZAH SARJANA MUDA
+6.Bangsa : IBAN
+7.Nama Ibu : JAEE ANAK NAJEN
 
 
-8.Alamat rumah kediaman sekarang :
-9.Status Rumah siapa? : (sendiri atau menyewa)
-10.Tempoh menetap :
+8.Alamat rumah kediaman sekarang : 403, LORONG TABUAN DAYAK 4, KING CENTRE, 93350 KUCHING, SARAWAK
+9.Status Rumah siapa? : MENYEWA
+10.Tempoh menetap : 2 TAHUN
 
-11.Alamat Surat Menyurat : 
-12.Rumah siapa jika alamat berlainan :
+11.Alamat Surat Menyurat : 403, LORONG TABUAN DAYAK 4, KING CENTRE, 93350 KUCHING, SARAWAK
+12.Rumah siapa jika alamat berlainan : -
 
-13.Nama Company : 
-14.No Telefon pejabat : 
-15.Alamat Pejabat :
-16.Menjalankan Perniagaan apa? : 
+13.Nama Company : KWONG SENG CHEONG FOOD INDUSTRIES SDN. BHD.
+14.No Telefon pejabat : +6082-43 2615
+15.Alamat Pejabat : LOT 921 BLOCK 7, SEJINGKAT INDUSTRIAL PARK, JALAN BAKO, 93050 KUCHING, SARAWAK
+16.Menjalankan Perniagaan apa? : 1. MANUFACTURING & PROCESSING OF FOOD & RELATED PRODUCTS 2. LETTING OF PROPERTY, PLANT & EQUIPMENT 3. CATERING SERVICES
 17.Nama Pegawai/Manager/supervisor/HR : (untuk pengesahan sahaja)
 18.Tempoh Berkhidmat : 
 19.Jawatan anda : 
