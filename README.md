@@ -15,5 +15,4 @@ All notes and link online here:
 + https://shopee.com.my/Rcysoft-USB-Flash-Drive-Data-Recovery-Pro-i.91022600.22500615162
 + denki-gai
 + https://buildpaste.net/wiki
-+ https://www.chunkbase.com/apps/seed-map#seed=4012972310743293046&platform=java_1_19&dimension=overworld&x=-1199&z=-742&zoom=0.567
 + https://myspp.spp.gov.my/myspp/index.php
