@@ -16,4 +16,4 @@ All notes and link online here:
 + denki-gai
 + https://buildpaste.net/wiki
 + https://myspp.spp.gov.my/myspp/index.php
-+ https://api.whatsapp.com/send?phone+60135877852&text=hi&source=&data=
++ https://api.whatsapp.com/send?phone=+60135877852&text=hi&source=&data=
