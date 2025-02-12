@@ -7,3 +7,4 @@ All notes and link online here:
 + https://shopee.com.my/Rcysoft-USB-Flash-Drive-Data-Recovery-Pro-i.91022600.22500615162
 + denki-gai
 + https://myspp.spp.gov.my/myspp/index.php
++ The Daily Life of a Middle-Aged Online Shopper in Another World
