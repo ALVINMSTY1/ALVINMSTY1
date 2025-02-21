@@ -8,3 +8,6 @@ All notes and link online here:
 + denki-gai
 + https://myspp.spp.gov.my/myspp/index.php
 + The Daily Life of a Middle-Aged Online Shopper in Another World
++ Managing and troubleshooting the price tag printer at K07 - Belian
++ Taking up roller paper at the K05 - Trinity
++ Manage and monitoring membership web system.
