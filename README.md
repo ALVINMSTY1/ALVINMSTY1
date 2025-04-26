@@ -6,3 +6,4 @@ All notes and link online here:
 + denki-gai
 + https://myspp.spp.gov.my/myspp/index.php
 + The Daily Life of a Middle-Aged Online Shopper in Another World
++ https://www.kscretails.xyz/dir/login.php?uid=1&lepltoken=293d6e61a6526178f1fe4f3ea56c601b&redirect_to=https%3A%2F%2Fwww.kscretails.xyz%2Fdir%2Fsite-admin
